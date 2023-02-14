@@ -1,0 +1,2 @@
+  ALL ABOUT SHELL REDIRECTIONS.
+0 Prints Hello world.
