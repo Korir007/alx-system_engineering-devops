@@ -1,5 +1,5 @@
-####Loops, conditions and parsing
+#### Loops, conditions and parsing
 In this project, I began working loops and conditionals statements in Bash.
 
-###Helper File 🙌
+### Helper File 🙌
 apache-access.log: An Apache access log file parsed in tasks 102 and 103.
