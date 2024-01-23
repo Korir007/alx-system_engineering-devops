@@ -1,0 +1,1 @@
+A web server is a crucial component of the World Wide Web that plays a central role in serving web content to users. It is essentially a software application or hardware device responsible for handling client requests for web resources (such as web pages, images, videos, or other files) and delivering these resources over the internet. Herein is an indeapth look into it;
